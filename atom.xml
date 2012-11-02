@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[小丰的私房菜]]></title>
+  <link href="http://www.dannyshare.com/atom.xml" rel="self"/>
+  <link href="http://www.dannyshare.com/"/>
+  <updated>2012-11-02T22:37:03+08:00</updated>
+  <id>http://www.dannyshare.com/</id>
+  <author>
+    <name><![CDATA[施小丰]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
